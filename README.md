@@ -6,11 +6,17 @@ Sentiment analysis is a subfield of NLP that aims to determine the emotional ton
 
 ### Requirements
   Python 3.x
+  
   PyTorch
+  
   Transformers
+  
   Pandas
+  
   NumPy
+  
   Matplotlib
+  
   Seaborn
 
 ### Usage
